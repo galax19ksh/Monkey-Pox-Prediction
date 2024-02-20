@@ -2,7 +2,7 @@
 Monkeypox, also known as mpox, is a rare infectious disease caused by the mpox virus. Predominant in Africa, this viral zoonotic disease  include symptoms like fever, headache, muscle aches and backache, swollen lymph nodes, chills and exhaustion. Early and accurate diagnosis is crucial for containment and patient management. With this repository I am joining people in presenting a machine learning model for detecting the monkeypox disease using simple algorithms like KNN, Random Forest and Decision Tree. This model achieves an aggregate accuracy of 76% only. I tried neither fine tuning/ hyperparameter nor deep learning algorithms to enhance the performance of the predictive model. I will update repo once I achieve a higher score of accuracy.
 
 # Data Source
-My dataset is already labelled. You can find it in the repo. The original dataset can be downloaded from here:
+My dataset is already labelled. You can find it in the repo along with the labeling information. The original dataset can be downloaded from here:
 https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset/download?datasetVersionNumber=4
 
 # Platform 
